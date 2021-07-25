@@ -38,11 +38,15 @@
 <img width="5%" heigth="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 
+</br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosiaAlmeida&layout=compact)](https://github.com/JosiaAlmeida/github-readme-stats)
+
+</br>
 
 ![JosiaAlmeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosiaAlmeida&show_icons=true&theme=radical)
 
 
 
 </br>
-<footer> 404👨‍💻 </footer>
+<footer> <h2>404👨‍💻</h2> </footer>
