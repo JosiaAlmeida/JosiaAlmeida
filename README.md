@@ -37,7 +37,6 @@
   
 <img width="5%" heigth="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   
-<img width="5%" heigth="5%" src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.walterpalladino.com%2Fwp-content%2Fuploads%2F2018%2F02%2FReact-Native-Logo.png&imgrefurl=http%3A%2F%2Fwww.walterpalladino.com%2Finstall-react-native%2F&tbnid=BNi7_qYysl-qSM&vet=12ahUKEwi72e2N9_nzAhVJiRoKHbzXAK0QMygRegUIARDQAQ..i&docid=PAOsznIWBEznlM&w=225&h=225&q=react%20native&ved=2ahUKEwi72e2N9_nzAhVJiRoKHbzXAK0QMygRegUIARDQAQ" />
 </div>
 
 </br>
