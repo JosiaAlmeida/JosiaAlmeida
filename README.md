@@ -37,6 +37,10 @@
   
 <img width="5%" heigth="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   
+<img width="5%" heigth="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  
+<img width="5%" heigth="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
+  
 </div>
 
 </br>
