@@ -6,12 +6,6 @@
 
 </a>
 
-<a href="https://www.facebook.com/Josia.Almeida77/"/>
-
-<img width="5%" heigth="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
-
-</a></br>
-
 <h2 style="color:blue;text-align:center;"> My Skills</h2>
 
 <div style="border:4px solid red">
